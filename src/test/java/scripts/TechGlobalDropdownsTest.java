@@ -17,6 +17,7 @@ public class TechGlobalDropdownsTest extends TechGlobalBase{
         techGlobalFrontendTestingHomePage = new TechGlobalFrontendTestingHomePage();
         techGlobalDropdownsPage = new TechGlobalDropdownsPage();
 
+
         techGlobalFrontendTestingHomePage.getFrontendTestingPage();
         techGlobalFrontendTestingHomePage.clickOnCard("Dropdowns");
     }
